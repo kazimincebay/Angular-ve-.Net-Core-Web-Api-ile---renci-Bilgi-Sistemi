@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogrenci.API", "Ogrenci.API.csproj", "{A804B128-7510-411A-B8D9-11B440675975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A804B128-7510-411A-B8D9-11B440675975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A804B128-7510-411A-B8D9-11B440675975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A804B128-7510-411A-B8D9-11B440675975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A804B128-7510-411A-B8D9-11B440675975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8712A4-4475-46A2-9DDC-168539F18B49}
+	EndGlobalSection
+EndGlobal

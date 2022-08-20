@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a804b128-7510-411a-b8d9-11b440675975": {
+      "ProjectGuid": "a804b128-7510-411a-b8d9-11b440675975",
+      "DisplayName": "Ogrenci.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
